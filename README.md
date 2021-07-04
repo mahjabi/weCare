@@ -1,15 +1,7 @@
-**Medicine Time**
+**WeCare**
 
-_The Goal:_
-
-Medicine Time is an native android application meant to aid the forgetful and busy with remembering to take their daily medications. It is designed for users who need a little help keeping track of their medication schedule and who are dedicated to keeping the schedule. The application allows the user to store pill objects and multiple alarms for those pills. Alarms have one time of day and can occur on multiple days of the week. The user is able to view their pills in a today view and can select date to view medicines. In addition, the application stores the history of when each medication was taken; this will aid the user in keeping track of their medication usage.
-
-
-
+My medication reminder app “weCare” is an android app project which is here to be a helping hand to old or forgetful or busy people who tend to forget about their important medication schedule. This app will track down their daily medication time to help store pills beforehand. By ringing alarm for once to multiple times a day, it ensures taking medicine. Also, it may feature medication history to show the total usage. 
 
 Use Cases and What Each Button Does:
 
-In the Home page, you will see 1 buttons in the bottom right of the application. ######Plus sign: This will take you to the Add Activity where you will be able to create an alarm. The application will automatically link up all the alarms to a specific pill with the same Pill Name. If you attempt to create an alarm to a pill that does not exist, it will automatically create a pill object for you. ######Calendar sign: This will take you to the Schedule Activity where you can see all the pills and alarms organized by the day of week.
-
-
-<img src="https://raw.githubusercontent.com/gssinghgautam/Medicine-Time-/master/arts/Screenshot_2017-08-03-16-16-17-091_com.oishi.medicinetime.mock.png"/> <img src="https://raw.githubusercontent.com/gssinghgautam/Medicine-Time-/master/arts/Screenshot_2017-08-03-16-16-06-694_com.oishi.medicinetime.mock.png"/> <img src="https://raw.githubusercontent.com/gssinghgautam/Medicine-Time-/master/arts/Screenshot_2017-08-03-16-16-28-924_com.oishi.medicinetime.mock.png"/>
+first you have to register, or login if already registered.In the Home page,you will see a list of medicines for regular use,when you have read that, you will see 1 button in the bottom right of the application. ######Plus sign: This will take you to the Add Activity where you will be able to create an alarm. The application will automatically link up all the alarms to a specific pill with the same Pill Name. If you attempt to create an alarm to a pill that does not exist, it will automatically create a pill object for you. ######Calendar sign: This will take you to the Schedule Activity where you can see all the pills and alarms organized by the day of week.
