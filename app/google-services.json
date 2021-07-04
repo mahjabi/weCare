@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285306931912",
+    "project_id": "medicine-6843c",
+    "storage_bucket": "medicine-6843c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285306931912:android:9fcb0909575b31807db3fd",
+        "android_client_info": {
+          "package_name": "com.oishi.medicinetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285306931912-4et9v9o8nc1f2qu15i3kpfu60u6jkiv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmMSMLg0qGtFni5kVnlSrNilcvDXNXdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285306931912-4et9v9o8nc1f2qu15i3kpfu60u6jkiv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

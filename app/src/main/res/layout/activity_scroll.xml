@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/possibly"
+    tools:context=".scroll">
+    //android:fillViewport="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#EADEDE"
+            android:fontFamily="@font/amaranth_bold"
+            android:lineSpacingExtra="8sp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="PARACETAMOL:It eases pain and good for reducing temperature.Paracetamol is safe at normal doses but is harmful if you take too much.Therefore, it is extremely important to check the right dose for the person taking it."
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:textStyle="normal|italic"
+            tools:text=" PARACETAMOL:  It eases pain and good for reducing temperature.Paracetamol is safe at normal doses but is harmful if you take too much.Therefore, it is extremely important to check the right dose for the person taking it." />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:autoText="false"
+            android:background="#EADEDE"
+            android:fontFamily="@font/amaranth_bold"
+            android:lineSpacingExtra="8sp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="ANTIHISTAMINE:  It eases the symptoms of hay fever and allergies-itch, sneezing, watering eyes, and a runny nose. Some may cause drowsiness - for example, chlorphenamine. These may be useful for taking at bedtime."
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            tools:text=" ANTIHISTAMINE:  It eases the symptoms of hay fever and allergies-itch, sneezing, watering eyes, and a runny nose. Some may cause drowsiness - for example, chlorphenamine. These may be useful for taking at bedtime." />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#EADEDE"
+            android:fontFamily="@font/amaranth_bold"
+            android:lineSpacingExtra="8sp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="ANTACID: It helps to ease indigestion and heartburn. There are various types of antacids -sodium bicarbonate,aluminium or magnesium hydroxide. They work by neutralising the acid content of the stomach. "
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            tools:text=" ANTACID:  It helps to ease indigestion and heartburn. There are various types of antacids -sodium bicarbonate,aluminium or magnesium hydroxide. They work by neutralising the acid content of the stomach. " />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="263dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#EADEDE"
+            android:fontFamily="@font/amaranth_bold"
+            android:lineSpacingExtra="8sp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="HYDROCORTISONE CREAM: It is a mild steroid cream. Steroids reduce inflammation, insect stings and eczema. This should not be used on the face unless prescribed by your doctor specifically for use on the face."
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            tools:text=" HYDROCORTISONE CREAM:  It is a mild steroid cream. Steroids reduce inflammation, insect stings and eczema. This should not be used on the face unless prescribed by your doctor specifically for use on the face." />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="259dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#EADEDE"
+            android:fontFamily="@font/amaranth_bold"
+            android:lineSpacingExtra="8sp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="ANTISEPTIC CREAM: It is useful to have this at home. If you use this on minor scrapes, cuts and bites, they are less likely to become infected. Commonly available antiseptic creams include Savlon® and Germolene®."
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            tools:text=" ANTISEPTIC CREAM:  It is useful to have this at home. If you use this on minor scrapes, cuts and bites, they are less likely to become infected. Commonly available antiseptic creams include Savlon® and Germolene®." />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:background="#00F7FF"
+            android:text="OK,I READ IT!"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    </LinearLayout>
+
+</ScrollView>
+
